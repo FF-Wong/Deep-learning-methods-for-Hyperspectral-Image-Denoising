@@ -1,6 +1,6 @@
 # Deep-learning-methods-for-Hyperspectral-Image-Denoising
-Deep learning methods for Hyperspectral Image Denoising
 
+#### 基于深度学习的高光谱去噪方法
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL 2017, W. Xie et al.
 - HSID-CNN:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS 2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
 - HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
@@ -28,3 +28,8 @@ Deep learning methods for Hyperspectral Image Denoising
 - Feature SIMilarity index (FSIM)
 - Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
 - Spectral Angle Mapper (SAM)
+
+
+#### Reference
+- [高光谱图像重构常用评价指标及其Python实现](https://www.cnblogs.com/nwpuxuezha/p/6659153.html)
+- [Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)
