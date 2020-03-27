@@ -1,4 +1,6 @@
 # Deep-learning-methods-for-Hyperspectral-Image-Denoising
+在 [Yongsen Zhao]( https://github.com/seniusen) 和 [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun)整理的高光谱遥感影像去噪方法清单[Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)的基础上，进行了深度学习方法的更新。
+
 #### 基于深度学习的高光谱去噪方法
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL 2017, W. Xie et al.
 - HSID-CNN:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS 2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
