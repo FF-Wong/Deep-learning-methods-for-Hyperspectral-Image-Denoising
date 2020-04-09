@@ -10,6 +10,7 @@
 - Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. 
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization,IEEE TIP 2020,Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
 - HSI-SDeCNN:A Single Model CNN for Hyperspectral,IEEE TGRS 2020(Early Access),Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
+- Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network,IEEE TGRS 2020,Yi Chang et al.
 
 
 #### Databases 
