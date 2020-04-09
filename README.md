@@ -4,12 +4,12 @@
 #### 基于深度学习的高光谱去噪方法
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL 2017, W. Xie et al.
 - [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS 2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
-- HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
-- Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arxiv 2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
-- SSGN:Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
+- [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
+- [Deep Hyperspectral Prior]: Denoising, Inpainting, Super-Resolution, arxiv 2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
+- [SSGN]:Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
 - Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. 
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization,IEEE TIP 2020,Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
-- HSI-SDeCNN:A Single Model CNN for Hyperspectral,IEEE TGRS 2020(Early Access),Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
+- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral,IEEE TGRS 2020(Early Access),Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network,IEEE TGRS 2020,Yi Chang et al.
 
 
