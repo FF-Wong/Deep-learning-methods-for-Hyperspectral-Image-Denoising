@@ -13,8 +13,8 @@
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network,IEEE TGRS 2020,Yi Chang et al.
 - Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, JPRS 2020,Qiang Zhang et al. [[Pdf]](https://www.researchgate.net/profile/Qiang_Zhang204/publication/340988173_Deep_spatio-spectral_Bayesian_posterior_for_hyperspectral_image_non-iid_noise_removal/links/5eaa25f6a6fdcc70509afdfd/Deep-spatio-spectral-Bayesian-posterior-for-hyperspectral-image-non-iid-noise-removal.pdf)
 - 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising,IEEE TNNLS,Kaixuan Wei et al.[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
-- Self-supervised Hyperspectral Image Restoration using Separable Image Prior,Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)
-source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior,ICCV 2019,Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
+- Self-supervised Hyperspectral Image Restoration using Separable Image Prior,Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)  
+Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior,ICCV 2019,Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
 - DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training
 - HSI-IPNet: Hyperspectral Imagery Inpainting by Deep Learning With Adaptive Spectral Extraction
 - Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks
