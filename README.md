@@ -3,25 +3,24 @@
 
 #### 基于深度学习的高光谱去噪方法
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL 2017, W. Xie et al.
-- [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS 2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
-- [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
+- [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, IEEE TGRS 2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
+- [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, IEEE TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
 - [Deep Hyperspectral Prior]: Denoising, Inpainting, Super-Resolution, arxiv 2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
 - [SSGN]:Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
 - Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. 
-- Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization,IEEE TIP 2020,Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
-- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral,IEEE TGRS 2020(Early Access),Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
-- Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network,IEEE TGRS 2020,Yi Chang et al.
-- Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, JPRS 2020,Qiang Zhang et al. [[Pdf]](https://www.researchgate.net/profile/Qiang_Zhang204/publication/340988173_Deep_spatio-spectral_Bayesian_posterior_for_hyperspectral_image_non-iid_noise_removal/links/5eaa25f6a6fdcc70509afdfd/Deep-spatio-spectral-Bayesian-posterior-for-hyperspectral-image-non-iid-noise-removal.pdf)
-- 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising,IEEE TNNLS,Kaixuan Wei et al.[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
-- Self-supervised Hyperspectral Image Restoration using Separable Image Prior,Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)  
-Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior,ICCV 2019,Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
-- DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training
-- HSI-IPNet: Hyperspectral Imagery Inpainting by Deep Learning With Adaptive Spectral Extraction
-- Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks
-- Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution
-- Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior
-- Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior
-
+- Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
+- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020(Early Access), Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
+- Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.
+- Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, JPRS 2020, Qiang Zhang et al. [[Pdf]](https://www.researchgate.net/profile/Qiang_Zhang204/publication/340988173_Deep_spatio-spectral_Bayesian_posterior_for_hyperspectral_image_non-iid_noise_removal/links/5eaa25f6a6fdcc70509afdfd/Deep-spatio-spectral-Bayesian-posterior-for-hyperspectral-image-non-iid-noise-removal.pdf)
+- 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS, Kaixuan Wei et al.[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
+- Self-supervised Hyperspectral Image Restoration using Separable Image Prior, arxiv 2019, Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)  
+Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 2019, Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
+- DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training, IEEE GCCE 2019, Tatsuki Itasaka et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9015235)
+- HSI-IPNet: Hyperspectral Imagery Inpainting by Deep Learning With Adaptive Spectral Extraction, IEEE J-STARS, Rong Wong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9151178)[[Pdf]](https://ieeexplore.ieee.org/iel7/4609443/8994817/09151178.pdf)
+- Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks, IEEE TGRS 2020(Early Access), Han V. Nguyen et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9146687)[[Pdf]](https://www.researchgate.net/profile/Nguyen_Van_Han/publication/342846315_Hyperspectral_Image_Denoising_Using_SURE-Based_Unsupervised_Convolutional_Neural_Networks/links/5f1acf2945851515ef44de7f/Hyperspectral-Image-Denoising-Using-SURE-Based-Unsupervised-Convolutional-Neural-Networks.pdf)
+- Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
+- Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior[[Page]]()[[Pdf]]()
+- Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior[[Page]]()[[Pdf]]()
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
