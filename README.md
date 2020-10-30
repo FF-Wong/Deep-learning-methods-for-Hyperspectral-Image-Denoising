@@ -20,8 +20,8 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - HSI-IPNet: Hyperspectral Imagery Inpainting by Deep Learning With Adaptive Spectral Extraction, IEEE J-STARS, Rong Wong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9151178)[[Pdf]](https://ieeexplore.ieee.org/iel7/4609443/8994817/09151178.pdf)
 - Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks, IEEE TGRS 2020(Early Access), Han V. Nguyen et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9146687)[[Pdf]](https://www.researchgate.net/profile/Nguyen_Van_Han/publication/342846315_Hyperspectral_Image_Denoising_Using_SURE-Based_Unsupervised_Convolutional_Neural_Networks/links/5f1acf2945851515ef44de7f/Hyperspectral-Image-Denoising-Using-SURE-Based-Unsupervised-Convolutional-Neural-Networks.pdf)
 - Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
-- Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior[[Page]]()[[Pdf]]()
-- Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior[[Page]]()[[Pdf]]()
+- Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior, arxiv 2020, Yi-Si Luo et al.[[Page]](https://arxiv.org/abs/2008.09753)[[Pdf]](https://arxiv.org/pdf/2008.09753)
+- Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
