@@ -22,6 +22,10 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
 - Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior, arxiv 2020, Yi-Si Luo et al.[[Page]](https://arxiv.org/abs/2008.09753)[[Pdf]](https://arxiv.org/pdf/2008.09753)
 - Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
+- SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, arxiv 2020 , Fengchao Xiong et al.[[Page]](https://arxiv.org/abs/2012.01829)[[Pdf]](https://arxiv.org/pdf/2012.01829)
+- Adrn: Attention-based deep residual network for hyperspectral image denoising,  ICASSP 2020 , Yongsen Zhao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9054658)[[Pdf]](https://arxiv.org/pdf/2003.01947)
+- Hyperspectral Image Denoising Using a 3-D Attention Denoising Network, TGRS 2021 , Qian Shi et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9318503)
+
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
@@ -31,19 +35,19 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - [ROSIS](http://lesun.weebly.com/hyperspectral-data-set.html)
 - [HYDICE](https://www.erdc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/610433/hypercube/)
 - [EO-1 Hyperion Data](https://lta.cr.usgs.gov/ALI)
-- [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
+- [NUS dataset](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
 
 
 #### Image Quality Measurement 
 - Peak Signal to Noise Ratio (PSNR)
 - Structural SIMilarity index (SSIM)
-- Feature SIMilarity index (FSIM)
-- Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
 - Spectral Angle Mapper (SAM)
+- Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
+- Feature SIMilarity index (FSIM)
 
 
 #### Reference
-- [高光谱图像重构常用评价指标及其Python实现](https://www.cnblogs.com/nwpuxuezha/p/6659153.html)
 - [Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)
+- [高光谱图像重构常用评价指标及其Python实现](https://www.cnblogs.com/nwpuxuezha/p/6659153.html)
 - [遥感学报公众号 高光谱遥感数据集](https://mp.weixin.qq.com/s?__biz=MzU2MTM4MTYzOQ==&mid=2247489064&idx=1&sn=41f2ab5c13a52dac6fe0064ae017c3a8&chksm=fc78fe40cb0f7756143a045e3e97beffac330e35fa524f82ac6869613f4cf6720d29b497b915&mpshare=1&scene=23&srcid=0327fl4R2j2zrrvURZGMHGXN&sharer_sharetime=1585311603251&sharer_shareid=5ef37c06898efb1fdf6df98cdb7ba765#rd)
