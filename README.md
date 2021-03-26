@@ -3,8 +3,8 @@
 The deep learning methods has been updated based on the list of hyperspectral remote sensing image denoising methods [Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark) compiled by [Yongsen Zhao]( https://github.com/seniusen) and [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
 #### Deep Learning Methods
-- Hyperspectral Imagery Denoising by Deep Learning With Trainable Nonlinearity Function, GRSL 2017, Weiying Xie et al.
-- [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, IEEE TGRS 2018, Qiangqiang Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
+- Hyperspectral Imagery Denoising by Deep Learning With Trainable Nonlinearity Function, GRSL 2017, Weiying Xie et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8030333)
+- [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, IEEE TGRS 2018, Qiangqiang Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8454887)[[Code]](https://github.com/WHUQZhang/HSID-CNN)
 - [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, IEEE TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
 - [Deep Hyperspectral Prior]: Denoising, Inpainting, Super-Resolution, arxiv 2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
 - [SSGN]:Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
