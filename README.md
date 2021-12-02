@@ -13,7 +13,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 2019, Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
 - Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
 - DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training, IEEE GCCE 2019, Tatsuki Itasaka et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9015235)
-- 
+
 - ========================> 2020 <========================
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
 - [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
@@ -28,7 +28,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - Adrn: Attention-based deep residual network for hyperspectral image denoising, ICASSP 2020 , Yongsen Zhao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9054658)[[Pdf]](https://arxiv.org/pdf/2003.01947)
 - A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020 , Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)[[Pdf]](https://arxiv.org/pdf/2011.03462)
 - A New Multiscale Residual Learning Network for HSI Inconsistent Noise Removal, GRSL 2020 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9295378)
-- 
+
 - ========================> 2021 <========================
 - Hyperspectral Image Denoising Using a 3-D Attention Denoising Network, TGRS 2021 , Qian Shi et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9318503)
 - Hyperspectral Image Denoising Based On Multi-Stream Denoising Network, IGARSS 2021 , Yan Gao et al.[[Page]](https://arxiv.org/abs/2104.02304)
