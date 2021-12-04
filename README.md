@@ -38,6 +38,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - Partial-DNet: A Novel Blind Denoising Model With Noise Intensity Estimation for HSI, TGRS 2021 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9420707)
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - HyperMixNet: Hyperspectral Image Reconstruction With Deep Mixed Network From a Snapshot Measurement, ICCV Workshops 2021 , Kouhei Yorimoto et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/html/Yorimoto_HyperMixNet_Hyperspectral_Image_Reconstruction_With_Deep_Mixed_Network_From_a_ICCVW_2021_paper.html)
+- Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)
 
 
 #### Hybrid models
