@@ -38,7 +38,10 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 
 
 #### Hybrid models
+
+#### Hybrid models
 - Hyperspectral Imagery Denoising by Deep Learning With Trainable Nonlinearity Function, GRSL 2017, Weiying Xie et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8030333)
+- [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, IEEE TGRS 2018, Qiangqiang Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8454887)[[Code]](https://github.com/WHUQZhang/HSID-CNN)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU 2020, H. Zeng et al..[[Page]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710) 
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Page]](https://ieeexplore.ieee.org/document/8767025)
