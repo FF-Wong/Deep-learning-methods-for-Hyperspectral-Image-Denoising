@@ -16,7 +16,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - A 3-D Atrous Convolution Neural Network for Hyperspectral Image Denoising, IEEE TGRS 2019, Wei Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8676115)
 
 - ========================> 2020 <========================
-- Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
+
 - [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al. [[Code]](https://github.com/mhaut/HSI-SDeCNN) [[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, ISPRS JPRS 2020, Qiang Zhang et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S0924271620301076?casa_token=oGipxO4oaiwAAAAA:nTJHrpi8KGaHq4gl7d2MsLPmWd6mebc2aLAVJY3xFodl8fpp1PIiVBiEabD93st_VH_MdmZP5rM)[[Pdf]](https://www.researchgate.net/profile/Qiang_Zhang204/publication/340988173_Deep_spatio-spectral_Bayesian_posterior_for_hyperspectral_image_non-iid_noise_removal/links/5eaa25f6a6fdcc70509afdfd/Deep-spatio-spectral-Bayesian-posterior-for-hyperspectral-image-non-iid-noise-removal.pdf)
@@ -42,6 +42,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 
 
 #### Hybrid models
+- Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Pdf]](https://doi.org/10.1109/TIP.2019.2928627)
 - Hyperspectral Mixed Noise Removal via Spatial-Spectral Constrained Unsupervised Deep Image Prior, JSTARS 2021 , Yi-Si Luo et al.[[Page]](https://ieeexplore.ieee.org/document/9534671)
 - Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior, IGARSS 2021 , Jian-Li Wang et al.[[Page]](https://ieeexplore.ieee.org/document/9555068)
 - Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors, TGRS 2021 , Yu-Chun Miao et al.[[Page]](https://ieeexplore.ieee.org/document/9524362)
