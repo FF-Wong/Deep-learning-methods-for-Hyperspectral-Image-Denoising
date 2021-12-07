@@ -38,6 +38,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 
 #### Hybrid models
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
+- Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU 2020, H. Zeng et al..[[Page]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710) 
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Page]](https://ieeexplore.ieee.org/document/8767025)
 - Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, ISPRS JPRS 2020, Qiang Zhang et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S0924271620301076?casa_token=oGipxO4oaiwAAAAA:nTJHrpi8KGaHq4gl7d2MsLPmWd6mebc2aLAVJY3xFodl8fpp1PIiVBiEabD93st_VH_MdmZP5rM)[[Pdf]](https://www.researchgate.net/profile/Qiang_Zhang204/publication/340988173_Deep_spatio-spectral_Bayesian_posterior_for_hyperspectral_image_non-iid_noise_removal/links/5eaa25f6a6fdcc70509afdfd/Deep-spatio-spectral-Bayesian-posterior-for-hyperspectral-image-non-iid-noise-removal.pdf)
