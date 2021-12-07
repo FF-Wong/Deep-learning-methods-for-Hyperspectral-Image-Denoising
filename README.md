@@ -44,7 +44,7 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 #### Hybrid models
 - Hyperspectral Mixed Noise Removal via Spatial-Spectral Constrained Unsupervised Deep Image Prior, JSTARS 2021 , Yi-Si Luo et al.[[Page]](https://ieeexplore.ieee.org/document/9534671)
 - Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior, IGARSS 2021 , Jian-Li Wang et al.[[Page]](https://ieeexplore.ieee.org/document/9555068)
-- Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors, arXiv 2021 , Yu-Chun Miao et al.[[Page]](https://arxiv.org/abs/2102.12310)
+- Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors, TGRS 2021 , Yu-Chun Miao et al.[[Page]](https://ieeexplore.ieee.org/document/9524362)
 - LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, TIP 2021 , Hongyan Zhang et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9580717)
 - A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS 2021 , Theo Bodrito et al.[[Page]](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)
 - MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, TGRS 2021 , Fengchao Xiong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9631264)
