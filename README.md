@@ -36,8 +36,9 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)
 
+
 #### Hybrid models
-- Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
+- Hyperspectral Imagery Denoising by Deep Learning With Trainable Nonlinearity Function, GRSL 2017, Weiying Xie et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8030333)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU 2020, H. Zeng et al..[[Page]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710) 
 - Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP 2020, Baihong Lin et al[[Page]](https://ieeexplore.ieee.org/document/8767025)
