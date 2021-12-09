@@ -10,14 +10,14 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - A 3-D Atrous Convolution Neural Network for Hyperspectral Image Denoising, IEEE TGRS 2019, Wei Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8676115)
 - Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al.[[Page]](https://ieeexplore.ieee.org/document/8734833)[[Code]](https://github.com/WHUQZhang/SSGN)[[Pdf]](https://arxiv.org/pdf/1810.00495)
 - Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. [[Page]](https://ieeexplore.ieee.org/document/8693549) [[Code]](https://see.xidian.edu.cn/faculty/wsdong/Code_release/DENOISE_NG_ST.tar.gz)
-- Self-supervised Hyperspectral Image Restoration using Separable Image Prior, arxiv 2019, Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)  
-Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV Workshops 2019, Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
+- Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV Workshops 2019, Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
+- Source:Self-supervised Hyperspectral Image Restoration using Separable Image Prior, arxiv 2019, Ryuji Imamura et al.[[Page]](https://arxiv.org/abs/1907.00651)  
 - DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training, IEEE GCCE 2019, Tatsuki Itasaka et al.[[Page]](https://ieeexplore.ieee.org/document/9015235)
 - Efficient Convolutional Neural Network for Spectral-Spatial Hyperspectral Denoising, WHISPERS 2019, Alessandro Maffei et al.[[Page]](https://ieeexplore.ieee.org/document/8921236)
 
 - ========================> 2020 <========================
 
-- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al.[[Page]](https://ieeexplore.ieee.org/document/8913713)[[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062) [[Code]](https://github.com/mhaut/HSI-SDeCNN)
+- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al.[[Page]](https://ieeexplore.ieee.org/document/8913713)[[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062)[[Code]](https://github.com/mhaut/HSI-SDeCNN)
 - 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS 2020, Kaixuan Wei et al.[[Page]](https://ieeexplore.ieee.org/document/9046853)[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
 - Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks, IEEE TGRS 2020 , Han V. Nguyen et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9146687)
 - ADRN: Attention-based deep residual network for hyperspectral image denoising, ICASSP 2020 , Yongsen Zhao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9054658)[[Pdf]](https://arxiv.org/pdf/2003.01947)
@@ -33,6 +33,8 @@ Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV 
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)[[Code]](https://github.com/LbzSteven/AODN)
 
+- ========================> 2022 <========================
+- 
 
 #### Hybrid models
 
