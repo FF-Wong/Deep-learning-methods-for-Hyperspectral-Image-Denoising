@@ -57,6 +57,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - HSI-IPNet: Hyperspectral Imagery Inpainting by Deep Learning With Adaptive Spectral Extraction, IEEE J-STARS 2020, Rong Wong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9151178)[[Pdf]](https://ieeexplore.ieee.org/iel7/4609443/8994817/09151178.pdf)
 - Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
+- Learning Spectral-Spatial Prior Via 3DDNCNN for Hyperspectral Image Deconvolution, ICASSP 2020, Xiuheng Wang et al.[[Page]](https://ieeexplore.ieee.org/document/9054539)
 
 #### Reconstruction
 - Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
