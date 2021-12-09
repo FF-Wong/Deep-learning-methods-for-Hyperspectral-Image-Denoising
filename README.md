@@ -4,24 +4,25 @@ The deep learning methods has been updated based on the list of hyperspectral re
 
 #### Deep Learning Methods
 - Hyperspectral Imagery Denoising by Deep Learning With Trainable Nonlinearity Function, GRSL 2017, Weiying Xie et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8030333)
+- [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, IEEE TGRS 2018, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8435923)[[Web]](http://www.escience.cn/people/changyi/index.html)[[Pdf]](http://www.escience.cn/system/download/100951)
 - [HSID-CNN]:Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, IEEE TGRS 2018, Qiangqiang Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8454887)[[Code]](https://github.com/WHUQZhang/HSID-CNN)
-- [HSI-DeNet]: Hyperspectral Image Restoration via Convolutional Neural Network, IEEE TGRS 2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
-- [Deep Hyperspectral Prior]: Denoising, Inpainting, Super-Resolution, ICCV Workshops 2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
-- [SSGN]:Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
+- [Deep Hyperspectral Prior]: Denoising, Inpainting, Super-Resolution, ICCV Workshops 2019, Oleksii Sidorov et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Sidorov_Deep_Hyperspectral_Prior_Single-Image_Denoising_Inpainting_Super-Resolution_ICCVW_2019_paper.html)[[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
+- A 3-D Atrous Convolution Neural Network for Hyperspectral Image Denoising, IEEE TGRS 2019, Wei Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8676115)
+- Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al.[[Page]](https://ieeexplore.ieee.org/document/8734833)[[Code]](https://github.com/WHUQZhang/SSGN)[[Pdf]](https://arxiv.org/pdf/1810.00495)
 - Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. [[Page]](https://ieeexplore.ieee.org/document/8693549) [[Code]](https://see.xidian.edu.cn/faculty/wsdong/Code_release/DENOISE_NG_ST.tar.gz)
 - Self-supervised Hyperspectral Image Restoration using Separable Image Prior, arxiv 2019, Ryuji Imamura et al.[[Pdf]](https://arxiv.org/pdf/1907.00651)  
 Source:Zero-Shot Hyperspectral Image Denoising With Separable Image Prior, ICCV Workshops 2019, Ryuji Imamura et al.[[Page]](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Imamura_Zero-Shot_Hyperspectral_Image_Denoising_With_Separable_Image_Prior_ICCVW_2019_paper.html)
-- DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training, IEEE GCCE 2019, Tatsuki Itasaka et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9015235)
-- A 3-D Atrous Convolution Neural Network for Hyperspectral Image Denoising, IEEE TGRS 2019, Wei Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/8676115)
+- DNN-based Hyperspectral Image Denoising with Spatio-spectral Pre-training, IEEE GCCE 2019, Tatsuki Itasaka et al.[[Page]](https://ieeexplore.ieee.org/document/9015235)
+- Efficient Convolutional Neural Network for Spectral-Spatial Hyperspectral Denoising, WHISPERS 2019, Alessandro Maffei et al.[[Page]](https://ieeexplore.ieee.org/document/8921236)
 
 - ========================> 2020 <========================
 
-- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al.[[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062) [[Code]](https://github.com/mhaut/HSI-SDeCNN)
-- 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS 2020, Kaixuan Wei et al.[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
-- Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks, IEEE TGRS 2020 , Han V. Nguyen et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9146687)[[Pdf]](https://www.researchgate.net/profile/Nguyen_Van_Han/publication/342846315_Hyperspectral_Image_Denoising_Using_SURE-Based_Unsupervised_Convolutional_Neural_Networks/links/5f1acf2945851515ef44de7f/Hyperspectral-Image-Denoising-Using-SURE-Based-Unsupervised-Convolutional-Neural-Networks.pdf)
+- [HSI-SDeCNN]:A Single Model CNN for Hyperspectral, IEEE TGRS 2020 , Alessandro Maffei et al.[[Page]](https://ieeexplore.ieee.org/document/8913713)[[Pdf]](https://doi.org/10.1109/TGRS.2019.2952062) [[Code]](https://github.com/mhaut/HSI-SDeCNN)
+- 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS 2020, Kaixuan Wei et al.[[Page]](https://ieeexplore.ieee.org/document/9046853)[[Code]](https://github.com/Vandermode/QRNN3D)[[Pdf]](https://arxiv.org/pdf/2003.04547)
+- Hyperspectral Image Denoising Using SURE-Based Unsupervised Convolutional Neural Networks, IEEE TGRS 2020 , Han V. Nguyen et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9146687)
 - ADRN: Attention-based deep residual network for hyperspectral image denoising, ICASSP 2020 , Yongsen Zhao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9054658)[[Pdf]](https://arxiv.org/pdf/2003.01947)
-- A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020 , Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)[[Pdf]](https://arxiv.org/pdf/2011.03462)
 - A New Multiscale Residual Learning Network for HSI Inconsistent Noise Removal, GRSL 2020 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9295378)
+- A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020 , Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)[[Pdf]](https://arxiv.org/pdf/2011.03462)
 
 
 - ========================> 2021 <========================
