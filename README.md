@@ -32,7 +32,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Partial-DNet: A Novel Blind Denoising Model With Noise Intensity Estimation for HSI, TGRS 2021 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9420707)
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)[[Code]](https://github.com/LbzSteven/AODN)
-- SSCAN: A Spatial-spectral Cross Attention Network for Hyperspectral Image Denoising, arxiv 2020, Zhiqiang Wang et al.[[Page]](https://arxiv.org/abs/2105.10949)
+- SSCAN: A Spatial-spectral Cross Attention Network for Hyperspectral Image Denoising, arxiv 2021, Zhiqiang Wang et al.[[Page]](https://arxiv.org/abs/2105.10949)
 
 - ========================> 2022 <========================
 - 
