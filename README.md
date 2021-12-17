@@ -32,6 +32,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Partial-DNet: A Novel Blind Denoising Model With Noise Intensity Estimation for HSI, TGRS 2021 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9420707)
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)[[Code]](https://github.com/LbzSteven/AODN)
+- SSCAN: A Spatial-spectral Cross Attention Network for Hyperspectral Image Denoising, arxiv 2020, Zhiqiang Wang et al.[[Page]](https://arxiv.org/abs/2105.10949)
 
 - ========================> 2022 <========================
 - 
@@ -50,7 +51,11 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, TIP 2021 , Hongyan Zhang et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9580717)
 - A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS 2021 , Theo Bodrito et al.[[Page]](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)[[Code]](https://github.com/inria-thoth/T3SC)
 - MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, TGRS 2021 , Fengchao Xiong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9631264)
+- Hyperspectral Image Mixed Noise Removal Using Subspace Representation and Deep CNN Image Prior, RS 2021 , Lina Zhuang et al.[[Page]](https://www.mdpi.com/2072-4292/13/20/4098)
 
+#### Temporarily uncategorized
+- Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising, IJCNN 2020 , Yuqiao Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9207509)
+- A novel fusion paradigm for multi-channel image denoising, Information Fusion 2020 , Yue Wu et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S1566253521001433?casa_token=AHqpzylsY5AAAAAA:8ykFr2rYIVmVeL1CcgRKG6KzBTm3MqxohSw7PkngMv6JET7n2LMLoEK82Hg3KgufaGxrQwCqOI5l)
 
 
 #### Other tasks
@@ -64,6 +69,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - HyperMixNet: Hyperspectral Image Reconstruction With Deep Mixed Network From a Snapshot Measurement, ICCV Workshops 2021 , Kouhei Yorimoto et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/html/Yorimoto_HyperMixNet_Hyperspectral_Image_Reconstruction_With_Deep_Mixed_Network_From_a_ICCVW_2021_paper.html)
 
 #### Extra
+- A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020, Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)
 - Hyperspectral Image Denoising with Realistic Data, ICCV 2021 , Tao Zhang et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html)[[Code]](https://github.com/ColinTaoZhang/HSIDwRD)
 
 
