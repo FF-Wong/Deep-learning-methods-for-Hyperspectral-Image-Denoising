@@ -36,7 +36,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Hyperspectral Image Restoration with Self-supervised Learning: A Two-stage Training Approach, TGRS 2021 , Yuntao Qian et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
 
 - ========================> 2022 <========================
-- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 ,Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
+- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 , Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9697400)
 
 #### Hybrid models
 
@@ -66,7 +66,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Learning Spectral-Spatial Prior Via 3DDNCNN for Hyperspectral Image Deconvolution, ICASSP 2020, Xiuheng Wang et al.[[Page]](https://ieeexplore.ieee.org/document/9054539)
-- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 ,Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
+- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 , Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9697400)
 
 #### Reconstruction
 - Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
