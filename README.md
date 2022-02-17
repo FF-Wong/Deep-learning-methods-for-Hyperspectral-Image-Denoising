@@ -32,10 +32,11 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Partial-DNet: A Novel Blind Denoising Model With Noise Intensity Estimation for HSI, TGRS 2021 , Yuan Yuan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9420707)
 - Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, TGRS 2021 , Xiangyong Cao et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9397278)[[Code]](https://github.com/xiangyongcao/GRN)
 - Attention-Based Octave Network for Hyperspectral Image Denoising, JSTARS 2021 , Ziwen Kan et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9623415)[[Code]](https://github.com/LbzSteven/AODN)
-- SSCAN: A Spatial-spectral Cross Attention Network for Hyperspectral Image Denoising, arxiv 2021, Zhiqiang Wang et al.[[Page]](https://arxiv.org/abs/2105.10949)
+- SSCAN: A Spatial-spectral Cross Attention Network for Hyperspectral Image Denoising, arxiv 2021 , Zhiqiang Wang et al.[[Page]](https://arxiv.org/abs/2105.10949)
+- Hyperspectral Image Restoration with Self-supervised Learning: A Two-stage Training Approach, TGRS 2021 , Yuntao Qian et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
 
 - ========================> 2022 <========================
-- 
+- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 ,Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
 
 #### Hybrid models
 
@@ -53,6 +54,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS 2021 , Theo Bodrito et al.[[Page]](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)[[Code]](https://github.com/inria-thoth/T3SC)
 - MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, TGRS 2021 , Fengchao Xiong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9631264)
 - Hyperspectral Image Mixed Noise Removal Using Subspace Representation and Deep CNN Image Prior, RS 2021 , Lina Zhuang et al.[[Page]](https://www.mdpi.com/2072-4292/13/20/4098)
+- Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, JSTARS 2021 , Hezhi Sun et al.[[Page]](https://ieeexplore.ieee.org/document/9664348)
 
 #### Temporarily uncategorized
 - Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising, IJCNN 2020 , Yuqiao Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9207509)
@@ -64,6 +66,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Fast stripe noise removal from hyperspectral image via multi-scale dilated unidirectional convolution, Multimedia Tools and Applications 2020, Ziying Wang et al.[[Page]](https://link.springer.com/article/10.1007/s11042-020-09065-4)[[Code]](https://github.com/doctorwgd/MsDUC)
 - Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network, IEEE TGRS 2020, Yi Chang et al.[[Page]](https://ieeexplore.ieee.org/document/8936525)
 - Learning Spectral-Spatial Prior Via 3DDNCNN for Hyperspectral Image Deconvolution, ICASSP 2020, Xiuheng Wang et al.[[Page]](https://ieeexplore.ieee.org/document/9054539)
+- DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 ,Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9658507)
 
 #### Reconstruction
 - Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior, CVPR 2019 , Lizhi Wang et al.[[Page]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.html)[[Pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Hyperspectral_Image_Reconstruction_Using_a_Deep_Spatial-Spectral_Prior_CVPR_2019_paper.pdf)
