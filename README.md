@@ -55,6 +55,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, TGRS 2021 , Fengchao Xiong et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9631264)
 - Hyperspectral Image Mixed Noise Removal Using Subspace Representation and Deep CNN Image Prior, RS 2021 , Lina Zhuang et al.[[Page]](https://www.mdpi.com/2072-4292/13/20/4098)
 - Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, JSTARS 2021 , Hezhi Sun et al.[[Page]](https://ieeexplore.ieee.org/document/9664348)
+- FastHyMix: Fast and Parameter-Free Hyperspectral Image Mixed Noise Removal, TNNLS 2021 , Lina Zhuang et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9552462)[[Code]](https://github.com/LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix)
 
 #### Temporarily uncategorized
 - Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising, IJCNN 2020 , Yuqiao Liu et al.[[Page]](https://ieeexplore.ieee.org/abstract/document/9207509)
