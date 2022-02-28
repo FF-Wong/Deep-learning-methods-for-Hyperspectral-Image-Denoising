@@ -37,6 +37,8 @@ The deep learning methods has been updated based on the list of hyperspectral re
 
 - ========================> 2022 <========================
 - DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping, TNNLS 2022 , Juntao Guan et al.[[Page]](https://ieeexplore.ieee.org/document/9697400)
+- Toward Real Hyperspectral Image Stripe Removal via Direction Constraint Hierarchical Feature Cascade Networks, RS 2022 , Chengjun Wang et al.[[Page]](https://www.mdpi.com/2072-4292/14/3/467)
+- Deep plug-and-play prior for hyperspectral image restoration, Neurocomputing 2022 , Zeqiang Lai  et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S092523122200073X)
 
 #### Hybrid models
 
