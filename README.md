@@ -81,7 +81,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Hyperspectral Image Denoising with Realistic Data, ICCV 2021 , Tao Zhang et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html)[[Code]](https://github.com/ColinTaoZhang/HSIDwRD)
 
 
-#### Databases 
+#### Datasets 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
 - [Harvard dataset](http://vision.seas.harvard.edu/hyperspec/download.html)
 - [ICVL dataset](http://icvl.cs.bgu.ac.il/hyperspectral/)
