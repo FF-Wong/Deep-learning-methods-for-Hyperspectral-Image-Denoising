@@ -79,7 +79,8 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Deep learning on image denoising: An overview, Neural Networks 2020, Chunwei Tian et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S0893608020302665?casa_token=cCyChtDpA30AAAAA:AArzZXspZ8loLgIbkjWulayI7lPdFajfDmBHdBz2IJzBI5qCmXzIIbT4nGtqt7VpERVZ7p2rE0SN)
 - A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020, Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)
 - Hyperspectral Image Denoising with Realistic Data, ICCV 2021 , Tao Zhang et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html)[[Code]](https://github.com/ColinTaoZhang/HSIDwRD)
-- Image Restoration for Remote Sensing: Overview and Toolbox, arxiv 2021, Benhood Rastiet al.[[Page]](https://arxiv.org/abs/2107.00557)[[Code]](https://github.com/ImageRestorationToolbox/Hyperspectral-Image-Denoising-)
+- Image Restoration for Remote Sensing: Overview and Toolbox, arxiv 2021, Benhood Rasti et al.[[Page]](https://arxiv.org/abs/2107.00557)[[Code]](https://github.com/ImageRestorationToolbox/Hyperspectral-Image-Denoising-)
+- HyDe: The First Open-Source, Python-Based, GPU-Accelerated Hyperspectral Denoising Package, arxiv 2022, Daniel Coquelin et al.[[Page]](https://arxiv.org/abs/2204.06979)[[Code]](https://github.com/Helmholtz-AI-Energy/HyDe)
 
 
 #### Datasets 
