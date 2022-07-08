@@ -79,6 +79,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - Deep learning on image denoising: An overview, Neural Networks 2020, Chunwei Tian et al.[[Page]](https://www.sciencedirect.com/science/article/pii/S0893608020302665?casa_token=cCyChtDpA30AAAAA:AArzZXspZ8loLgIbkjWulayI7lPdFajfDmBHdBz2IJzBI5qCmXzIIbT4nGtqt7VpERVZ7p2rE0SN)
 - A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods, arxiv 2020, Zhaoming Kong et al.[[Page]](https://arxiv.org/abs/2011.03462)
 - Hyperspectral Image Denoising with Realistic Data, ICCV 2021 , Tao Zhang et al.[[Page]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html)[[Code]](https://github.com/ColinTaoZhang/HSIDwRD)
+- Image Restoration for Remote Sensing: Overview and Toolbox, arxiv 2021, Benhood Rastiet al.[[Page]](https://arxiv.org/abs/2107.00557)[[Code]](https://github.com/ImageRestorationToolbox/Hyperspectral-Image-Denoising-)
 
 
 #### Datasets 
@@ -103,6 +104,7 @@ The deep learning methods has been updated based on the list of hyperspectral re
 
 #### Reference
 - [Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)
+- [Hyperspectral Denoising algorithm toolbox in Python](https://github.com/Helmholtz-AI-Energy/HyDe)
 - [高光谱图像重构常用评价指标及其Python实现](https://www.cnblogs.com/nwpuxuezha/p/6659153.html)
 - [遥感学报公众号 高光谱遥感数据集](https://mp.weixin.qq.com/s?__biz=MzU2MTM4MTYzOQ==&mid=2247489064&idx=1&sn=41f2ab5c13a52dac6fe0064ae017c3a8&chksm=fc78fe40cb0f7756143a045e3e97beffac330e35fa524f82ac6869613f4cf6720d29b497b915&mpshare=1&scene=23&srcid=0327fl4R2j2zrrvURZGMHGXN&sharer_sharetime=1585311603251&sharer_shareid=5ef37c06898efb1fdf6df98cdb7ba765#rd)
 - [Hyperspectral Remote Sensing Scenes](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
