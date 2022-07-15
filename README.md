@@ -110,4 +110,4 @@ The deep learning methods has been updated based on the list of hyperspectral re
 - [遥感学报公众号 高光谱遥感数据集](https://mp.weixin.qq.com/s?__biz=MzU2MTM4MTYzOQ==&mid=2247489064&idx=1&sn=41f2ab5c13a52dac6fe0064ae017c3a8&chksm=fc78fe40cb0f7756143a045e3e97beffac330e35fa524f82ac6869613f4cf6720d29b497b915&mpshare=1&scene=23&srcid=0327fl4R2j2zrrvURZGMHGXN&sharer_sharetime=1585311603251&sharer_shareid=5ef37c06898efb1fdf6df98cdb7ba765#rd)
 - [Hyperspectral Remote Sensing Scenes](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FF-Wong/Deep-learning-methods-for-Hyperspectral-Image-Denoising)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=FF-Wong/Deep-learning-methods-for-Hyperspectral-Image-Denoising)
